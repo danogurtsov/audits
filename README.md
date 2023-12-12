@@ -5,6 +5,7 @@ Project | Description | Report | @
 --- | --- | --- | ---
 Curve Finance | crvUSD stablecoin | [link](https://github.com/mixbytes/audits_public/blob/master/Curve%20Finance/Curve%20Stablecoin%20(crvUSD)/Curve%20Stablecoin%20(crvUSD)%20Security%20Audit%20Report.pdf) | Mixbytes
 Yearn Finance | yETH bootstrap mechanics | [link](https://github.com/mixbytes/audits_public/blob/master/Yearn%20Finance/yETH-bootstrap/Yearn%20Finance%20yETH-bootstrap%20Security%20Audit%20Report.pdf) | Mixbytes
+AAVE | Governance v3 update | [link](https://github.com/mixbytes/audits_public/blob/master/AAVE/Voting%20Tokens/AAVE%20Voting%20Tokens%20Security%20Audit%20Report.pdf) | Mixbytes
 Prisma Finance | mkUSD stablecoin backed by LSTs (Liquity model) | [link](https://github.com/mixbytes/audits_public/blob/master/Prisma%20Finance/Prisma%20Finance%20Security%20Audit%20Report.pdf) | Mixbytes
 Clearpool | Bad debt auction mechanism | [link](https://github.com/mixbytes/audits_public/blob/master/Clearpool/Clearpool%20Security%20Audit%20Report.pdf) | Mixbytes
 Fantium | NFT revenue sharing for sport athletes | [link](https://github.com/mixbytes/audits_public/blob/master/Fantium/Fantium%20v2/Fantium%20v2%20Security%20Audit%20Report.pdf) | Mixbytes
