@@ -15,3 +15,4 @@ Octoplace | NFT Marketplace | [link](https://github.com/oddsequence/reports/blob
 RaiseDAO | Fundraising campaigns factory | [link](https://github.com/oddsequence/reports/blob/main/RaiseDAO/RaiseDAO_public_report_011222.pdf) | Solo
 Foundation | NFT dropping and selling | [link](https://github.com/oddsequence/reports/blob/main/Foundation/Foundation_report_29122022.pdf) | Code4rena (2022)
 Rigor Protocol | Financial architecture for contruction projects | [link](https://github.com/oddsequence/reports/blob/main/RigorProtocol/RigorProtocol_report_29122022.pdf) | Code4rena (2022)
+
